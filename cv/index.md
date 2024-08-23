@@ -11,17 +11,19 @@ title: CV
 
 ## Just nu
 
-[Lärarstudent](https://www.su.se/sok-kurser-och-program/lk7gy-1.643258) vid Stockholms universitet. Kompletterande pedagogisk utbildning för ämneslärarexamen. Matematik och fysik för gymnasiet.
+[Lärarstudent](https://www.su.se/sok-kurser-och-program/lk7gy-1.643258) vid Stockholms universitet
+- Kompletterande pedagogisk utbildning för ämneslärarexamen
+- Matematik och fysik för gymnasiet
 
 ## Utbildning
 
 `2014-2024`
 __Studier vid Stockholms universitet__
-- Matematik 127.5 hp - _Filosofie kandidatexamen 2024-07, [Introduction to Representation Theory of Finite Groups](https://kurser.math.su.se/mod/folder/view.php?id=10815)
+- Matematik 127.5 hp - _Filosofie kandidatexamen 2024-07, [Introduction to Representation Theory of Finite Groups](https://kurser.math.su.se/mod/folder/view.php?id=10815)_
 - Fysik 97.5 hp
 - Musikvetenskap 22.5 hp
 
-### Övrigt
+___Övrigt___
 - Gymnasiefysik med Python 5 hp - Uppsala universitet
 - Inledande programmering med Java 7.5 hp - Uppsala universitet
 - Motorsågskort A+B - Stockholms scoutdistrikt
@@ -40,3 +42,8 @@ _IT-administratör hos Labkyl AB_
 `December 2020 - April 2021`
 _Covidprovtagare hos Samtrans AB_
 
+_Besöksledare hos Vetenskapens hus, KTH_
+
+_Lärarvikarie hos Lärarjouren_
+
+_Läxhjälpare hos MyAcademy_
